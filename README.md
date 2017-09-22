@@ -14,5 +14,5 @@ Restore from file to ETCD server:
 ```
 
 # Download:
-[Windows x64](https://github.com/netremo/etcdop/releases/download/0.1/etcdop.exe)
-[Linux x64](https://github.com/netremo/etcdop/releases/download/0.1/etcdop)
+- [Windows x64](https://github.com/netremo/etcdop/releases/download/0.1/etcdop.exe)
+- [Linux x64](https://github.com/netremo/etcdop/releases/download/0.1/etcdop)
