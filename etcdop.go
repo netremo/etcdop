@@ -1,7 +1,6 @@
 package main
 
 import (
-	// "github.com/davecgh/go-spew/spew"
 	"log"
 	"time"
 	"context"
@@ -10,7 +9,6 @@ import (
 	"io/ioutil"
 	"flag"
 	"os"
-	// "encoding/json"
 )
 
 type Config struct{
